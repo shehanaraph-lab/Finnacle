@@ -23,8 +23,8 @@ A modern, scalable financial management application built with Django REST Frame
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd finacle-app
+   git clone https://github.com/shehanaraph-lab/Finnacle.git
+   cd Finnacle
    ```
 
 2. **Set up virtual environment**
@@ -277,6 +277,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Advanced analytics
 - Third-party integrations
 - Performance optimization
+
 
 
 
