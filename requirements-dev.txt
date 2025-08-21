@@ -1,0 +1,10 @@
+# Development requirements include all production requirements
+-r requirements.txt
+
+# Additional development-only packages
+ipython==8.30.0
+jupyter==1.1.1
+pre-commit==4.0.1
+
+
+

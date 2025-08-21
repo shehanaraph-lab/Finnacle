@@ -1,0 +1,56 @@
+# Django Core
+Django==5.2.5
+djangorestframework==3.15.2
+
+# Environment & Configuration
+python-decouple==3.8
+dj-database-url==2.3.0
+
+# Database
+psycopg2-binary==2.9.10  # PostgreSQL adapter
+
+# CORS handling
+django-cors-headers==4.6.0
+
+# Forms and UI
+django-crispy-forms==2.4
+crispy-bootstrap5==2025.6
+
+# Image processing
+Pillow==11.3.0
+
+# Caching (Redis)
+django-redis==5.4.0
+redis==5.2.1
+
+# Monitoring & Error tracking
+sentry-sdk[django]==2.21.0
+
+# API Documentation
+drf-spectacular==0.28.0
+
+# Authentication & Security
+firebase-admin==6.5.0
+PyJWT==2.10.0
+cryptography==42.0.8
+
+# Development & Testing
+pytest==8.3.4
+pytest-django==4.9.0
+pytest-cov==6.0.0
+factory-boy==3.3.1
+black==24.10.0
+flake8==7.1.1
+isort==5.13.2
+mypy==1.13.0
+django-stubs==5.1.2
+djangorestframework-stubs==3.15.1
+
+# Production server
+gunicorn==23.0.0
+whitenoise==6.8.2
+
+# Development tools
+django-debug-toolbar==4.4.6
+django-extensions==3.2.3
+
